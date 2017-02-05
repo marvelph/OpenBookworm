@@ -1,0 +1,20 @@
+/* 
+  Localizable.strings
+  bookworm
+
+  Copyright 2012 Kenji Nishishiro. All rights reserved.
+  Written by Kenji Nishishiro <marvel@programmershigh.org>.
+*/
+
+/* BWBookViewController */
+
+"pageIndicatorFormat" = "%lu/%lu";
+
+/* BWContentViewController */
+
+"pageNumberFormat" = "P. %lu";
+
+/* BWBookmarkViewController */
+
+"bookmarkFormat" = "%lu章「%@」の%lu段落目";
+"addBookmark" = "このページを追加";
